@@ -16,7 +16,7 @@
 
 #scoreBox{
     position: absolute;
-    top: 9px;
+    top: 10px;
     right: 200px;
     font-size: 39px;
     font-weight: bold;
@@ -25,7 +25,7 @@
 
 #hiscoreBox{
     position: absolute;
-    top: 59px;
+    top: 60px;
     right: 140px;
     font-size: 39px;
     font-weight: bold;
